@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina AI Photo Studio",
+  "description": "A high-end photo editing application powered by Gemini AI. Effortlessly remove backgrounds, replace environments, and transform your photos with natural language prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
